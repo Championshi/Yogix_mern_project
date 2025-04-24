@@ -25,7 +25,8 @@ The Yoga Master app helps individuals **unleash their inner self** by offering r
 
 ### Yoga Master Interface
 
-![Yoga Master Image 1](./assets/Home_Yoga_Master_1.png)
+![Yoga Master Image](./frontend/src/assets/Home_Yoga_Master_Unleashed_Your_Inner_Self_24_04_2025_13_30_12.png)
+
 
 ### Meditation Section
 
