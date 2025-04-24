@@ -1,36 +1,65 @@
 ﻿# yogamaster-server
 
-# 🧘 Yoga Master - Backend (Node.js + Express + MongoDB)
+# Yoga Master - Unleash Your Inner Self
 
-This is the backend for the **Yoga Master MERN stack application**, designed for managing user accounts, classes, instructors, cart operations, payments, and admin-level controls. It uses MongoDB as the primary database, Express.js for server-side functionality, and JWT for authentication.
-
----
-
-## 📦 Technologies Used
-
-![Tech Stack]("C:\Users\HP\OneDrive\Pictures\Home _ Yoga Master - Unleashed Your Inner Self - Google Chrome 24-04-2025 13_31_06.png"
-"C:\Users\HP\OneDrive\Pictures\Home _ Yoga Master - Unleashed Your Inner Self - Google Chrome 24-04-2025 13_30_12.png")
-
-- **Node.js** - JavaScript runtime
-- **Express.js** - Web framework for building APIs
-- **MongoDB** - NoSQL Database (via Mongoose)
-- **JWT (jsonwebtoken)** - For authentication via tokens
-- **Stripe** - Payment gateway integration
-- **dotenv** - For environment variable management
-- **CORS** - To handle cross-origin resource sharing
-- **Cookie-parser & Body-parser** - For parsing cookies and request bodies
+Welcome to the **Yoga Master** project! This is a web application designed to provide you with a peaceful journey to mastering yoga. Whether you're a beginner or an experienced practitioner, this app will guide you through yoga poses, meditation, and breathing exercises to help you achieve balance in your life.
 
 ---
 
-## 🚀 Setup Instructions
+## 🚀 **Project Overview**
 
-### 1. Clone the Repository
+The Yoga Master app helps individuals **unleash their inner self** by offering resources on yoga poses, breathing techniques, and mindfulness practices. It's designed with a clean, user-friendly interface to provide the ultimate yoga experience.
 
-Clone the project to your local machine:
+---
 
-```bash
-git clone https://github.com/yourusername/yoga-master-backend.git
-cd yoga-master-backend
+## 📌 **Features**
+
+- **Interactive Yoga Pose Guide**: Step-by-step guides for various yoga poses.
+- **Breathing Techniques**: Learn different breathing exercises for mindfulness and relaxation.
+- **Meditation**: Guided meditation practices to help you find peace and balance.
+- **User-friendly Interface**: Simple and intuitive design, with clear navigation.
+
+---
+
+## 🎨 **Screenshots**
+
+### Yoga Master Interface
+
+![Yoga Master Image 1](./assets/Home_Yoga_Master_1.png)
+
+### Meditation Section
+
+![Yoga Master Image 2](./assets/Home_Yoga_Master_2.png)
+
+---
+
+## 🛠️ **Technologies Used**
+
+- **Frontend**: React, HTML, CSS (TailwindCSS)
+- **Backend**: Node.js, Express (Optional, based on your setup)
+- **Database**: MongoDB (if applicable)
+- **Deployment**: Vercel (for hosting the project)
+
+---
+
+## 🔧 **Installation & Setup**
+
+To get this project running on your local machine, follow these steps:
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- **Node.js** (v14.x or higher) - [Download Node.js](https://nodejs.org/)
+- **npm** (comes bundled with Node.js)
+- **Git** - [Download Git](https://git-scm.com/)
+
+### Steps to Run Locally
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/yoga-master.git
 
 
 
