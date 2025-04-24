@@ -31,7 +31,7 @@ The Yoga Master app helps individuals **unleash their inner self** by offering r
 
 ### Meditation Section
 
-![Yoga Master Image 2]([./assets/Home_Yoga_Master_2.png](https://github.com/Championshi/Yogix_mern_project/blob/main/Home%20_%20Yoga%20Master%20-%20Unleashed%20Your%20Inner%20Self%20-%20Google%20Chrome%2024-04-2025%2013_30_12.png?raw=true))
+![Yoga Master Image 2](https://github.com/Championshi/Yogix_mern_project/blob/main/Home%20_%20Yoga%20Master%20-%20Unleashed%20Your%20Inner%20Self%20-%20Google%20Chrome%2024-04-2025%2013_31_06.png?raw=true)
 
 ---
 
