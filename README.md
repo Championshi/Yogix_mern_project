@@ -20,6 +20,7 @@ The Yoga Master app helps individuals **unleash their inner self** by offering r
 - **User-friendly Interface**: Simple and intuitive design, with clear navigation.
 
 ---
+**[Click Here to Visit the Live App on Vercel 🚀](https://yoga-master-final-pi.vercel.app/)**
 
 ## 🎨 **Screenshots**
 
