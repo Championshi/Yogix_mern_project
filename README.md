@@ -62,3 +62,35 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/yoga-master.git
+
+   
+---
+
+## ⚙️ Features
+
+- 🌟 User Authentication
+- 📚 Browse Yoga Sessions
+- 📅 Book Appointments
+- 🧘‍♀️ Trainer Profiles
+- 📈 Dashboard for Users and Admin
+
+---
+
+## 🧘 Meditation Section
+
+A peaceful space to explore various meditation practices that help relieve stress, increase focus, and promote emotional health.
+
+<p align="center">
+  <img src="https://github.com/Championshi/Yogix_mern_project/blob/main/Home%20_%20Yoga%20Master%20-%20Unleashed%20Your%20Inner%20Self%20-%20Google%20Chrome%2024-04-2025%2013_31_06.png?raw=true" width="700"/>
+</p>
+
+---
+
+## 🚀 Getting Started
+
+### 📦 1. Clone the Repository
+
+```bash
+git clone https://github.com/Championshi/Yogix_mern_project.git
+cd mern-yogamaster
+
